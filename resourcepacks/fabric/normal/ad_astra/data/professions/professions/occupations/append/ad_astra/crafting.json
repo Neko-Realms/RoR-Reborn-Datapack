@@ -1,6 +1,6 @@
 {
   "function_type": "professions:append",
-  "to_edit_profession_key": "professions:smithing",
+  "to_edit_profession_key": "professions:crafting",
   "actions": [
     {
       "action": "professions:craft_item",
