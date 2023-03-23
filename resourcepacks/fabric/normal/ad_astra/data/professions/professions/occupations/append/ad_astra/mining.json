@@ -1,6 +1,4 @@
 {
-  "function_type": "professions:append",
-  "to_edit_profession_key": "professions:mining",
   "actions": [
     {
       "action": "professions:break_block",
@@ -93,5 +91,7 @@
       ]
     }
   ],
+  "function_type": "professions:append",
+  "to_edit_profession_key": "professions:mining",
   "unlocks": []
 }

@@ -1,6 +1,4 @@
 {
-  "function_type": "professions:append",
-  "to_edit_profession_key": "professions:smithing",
   "actions": [
     {
       "action": "professions:craft_item",
@@ -177,5 +175,7 @@
       ]
     }
   ],
+  "function_type": "professions:append",
+  "to_edit_profession_key": "professions:smithing",
   "unlocks": []
 }
