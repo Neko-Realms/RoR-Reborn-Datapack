@@ -7,6 +7,8 @@ This is the estimated progress of all the work that is needed to be done, and wh
 ______________________
 Ad Astra = 95%
   (Missing = Nasa workbench)
+  (Missing = Trading)
+  (Missing = Exploring)
 ______________________
 Ad Astra: Giseelle Addon = 0%
   (Missing = all)
