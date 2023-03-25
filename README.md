@@ -9,6 +9,7 @@ Ad Astra = 95%
   (Missing = Nasa workbench)
   (Missing = Trading)
   (Missing = Exploring)
+  (Missing = Building)
 ______________________
 Ad Astra: Giseelle Addon = 0%
   (Missing = all)
