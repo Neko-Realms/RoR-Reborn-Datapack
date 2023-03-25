@@ -8,7 +8,7 @@ This is the estimated progress of all the work that is needed to be done, and wh
 ### Professions
 ______________________
 Ad Astra = 95%
-  (Missing = Nasa workbench)
+  (Missing = Nasa Workbench Recipes (Crafting))
   (Missing = Trading)
   (Missing = Exploring)
   (Missing = Building)
@@ -131,8 +131,8 @@ VillagersPlus = 0%
   
 ### Recipes
 ______________________
-Ad Astra = 95%
-  (Missing = Nasa workbench)
+Ad Astra = 0%
+  (Missing = all)
 ______________________
 Ad Astra: Giseelle Addon = 0%
   (Missing = all)
