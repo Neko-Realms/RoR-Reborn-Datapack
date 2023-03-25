@@ -1,5 +1,7 @@
-# RoR-Reborn-Datapack
-This is the datapack of RoR Reborn
+# Spacial Reborn Datapack
+This is the datapack of Spacial Reborn Minecraft Modpack.
+
+This is the estimated progress of all the work that is needed to be done, and what is left to do.
 
 ## Professions
 ______________________
