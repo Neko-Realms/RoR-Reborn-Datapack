@@ -3,7 +3,9 @@ This is the datapack of Spacial Reborn Minecraft Modpack.
 
 This is the estimated progress of all the work that is needed to be done, and what is left to do.
 
-## Professions
+## Server-side Edits
+
+### Professions
 ______________________
 Ad Astra = 95%
   (Missing = Nasa workbench)
@@ -124,9 +126,10 @@ Traveler's Backpack = 0%
 ______________________
 VillagersPlus = 0%
   (Missing = all)
+
+## Server and Client side Edits.
   
-  
-## Recipes
+### Recipes
 ______________________
 Ad Astra = 95%
   (Missing = Nasa workbench)
