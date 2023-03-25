@@ -32,9 +32,6 @@ ______________________
 Better Animals Plus = 0%
   (Missing = all)
 ______________________
-Bits and Chisels = 0%
-  (Missing = all)
-______________________
 Botany Pots = 0%
   (Missing = all)
 ______________________
@@ -63,9 +60,6 @@ Explorer's Compass = 0%
   (Missing = all)
 ______________________
 Heama = 0%
-  (Missing = all)
-______________________
-Immersive Aircraft = 0%
   (Missing = all)
 ______________________
 Luggage = 0%
@@ -158,9 +152,6 @@ ______________________
 Better Animals Plus = 0%
   (Missing = all)
 ______________________
-Bits and Chisels = 0%
-  (Missing = all)
-______________________
 Botany Pots = 0%
   (Missing = all)
 ______________________
@@ -189,9 +180,6 @@ Explorer's Compass = 0%
   (Missing = all)
 ______________________
 Heama = 0%
-  (Missing = all)
-______________________
-Immersive Aircraft = 0%
   (Missing = all)
 ______________________
 Luggage = 0%
